@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "@hapi/bounce": "^3.0.0",
+    "@hapi/hapi": "^20.2.2",
+    "@types/hapi": "^18.0.7",
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "@types/hapi__hapi": "^20.0.10"
+  }
+}
